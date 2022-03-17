@@ -1,1 +1,1 @@
-# testingapp2
+# pet-pals
